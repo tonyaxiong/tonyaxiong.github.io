@@ -162,7 +162,7 @@ div.gallery img {
     margin: 0 auto !important;
     display: block !important;}
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 720px){
 
 nav{
     float: none;
