@@ -48,7 +48,7 @@ footer a:hover{
     color: pink;
 }
 #homehero{background-image: url(images/space.jpg);
-    height: 600px;
+    height: 400px;
     width: auto;
     background-size: cover;}
 #portfolio_hero{
@@ -72,6 +72,10 @@ footer a:hover{
     padding: 10px 0;
     float: left;
 }
+.wrapper-home{
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 2em;}
 .wrapper{
     width: 90%;
     margin: 0 auto;
@@ -85,6 +89,10 @@ footer a:hover{
 .email{
     text-decoration: none;
 }
+}
+.title{
+    grid-column-start: 1;
+    grid-column-end: 3;
 }
 .container_images{
     position: relative;
