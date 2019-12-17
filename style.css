@@ -242,7 +242,9 @@ main{
 .nav-toggle-label span::after{
     top: 7px;
 }
-
+.wrapper{
+    padding-top: 1em;
+}
 #homehero,
 #portfolio_hero{
     display: none;
