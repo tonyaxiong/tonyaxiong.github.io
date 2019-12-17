@@ -82,7 +82,8 @@ footer a:hover{
     padding-top: 8em;}
 .grid{
     display: grid;
-    grid-template-columns: 1fr 1fr;}
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 1.5em; }
 .gif{
     padding-top: 3em;
     height: 100%}
