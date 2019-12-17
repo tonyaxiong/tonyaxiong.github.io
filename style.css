@@ -251,6 +251,8 @@ main{
 }
 #me{
     float: none;
+    width: 75%;
+    height: auto;
 }
 .responsive {
     width: 49.99999%;
