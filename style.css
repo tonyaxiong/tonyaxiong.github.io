@@ -83,6 +83,12 @@ footer a:hover{
 .grid{
     display: grid;
     grid-template-columns: 1fr 1fr;}
+.gif{
+    padding-top: 3em;
+    height: 100%}
+.email{
+    text-decoration: none;
+}
 }
 .title{
     grid-column-start: 1;
@@ -116,12 +122,6 @@ footer a:hover{
     color: white;
     font-size: 16px;
     padding: 16px 32px;
-}
-.gif{
-    padding-top: 3em;
-    height: 100%}
-.email{
-    text-decoration: none;
 }
 div.gallery:hover {
   border: 1px solid #777;
@@ -216,7 +216,6 @@ main{
     top: 0;
     right: 0;
     margin-right: 1em;
-    border: 1px solid red;
     height: 100%;
     display: flex;
     align-items: center;
